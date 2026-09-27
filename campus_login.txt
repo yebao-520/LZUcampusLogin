@@ -1,0 +1,10 @@
+# 校园网登录配置（等号右侧填写实际值）
+username=
+password=
+
+# 登录后缀：@study 对应网页的 @eLearning；留空对应 @lzu.edu.cn
+domain=@study
+
+# 可选后缀
+elearning_domain=@study
+edu_domain=
